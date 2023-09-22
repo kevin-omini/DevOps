@@ -45,5 +45,4 @@ kubectl wait --for=condition=Ready nodes --all --timeout=3m
 # Display cluster information
 kubectl cluster-info
 
-# Copy and save Kubeconfig to ~/.kube/config
-echo "Kubeconfig saved to ~/.kube/config"
+echo "kubeconfig saved to ~/.kube/config"
