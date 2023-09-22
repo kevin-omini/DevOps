@@ -36,7 +36,6 @@ check_kind() {
 check_kind
 
 # Create a Kubernetes Cluster using Kind
-echo "Creating $CLUSTER_NAME Cluster..."
 sudo kind create cluster --name "$CLUSTER_NAME"
 
 # Wait for the cluster to be ready

@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"kube","Source":"./Monitoring/modules/kube-prometheus","Dir":""},{"Key":"kube-prometheus","Source":"./DevOps/Monitoring/modules/kube-prometheus","Dir":""}]}
