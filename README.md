@@ -24,7 +24,7 @@ To set up a Kubernetes cluster using Kind, follow these steps:
 
 ### Task II: Deploying the Node.js App to Kubernetes
 
-To deploy the Node.js App to the Kubernetes cluster created in Task 1, follow these steps:
+To deploy the Node.js App to the Kubernetes cluster created in Task I, follow these steps:
 1.  Log in to your [DockerHub](https://hub.docker.com/) account
 2. Dockerize the application by creating a Dockerfile in the application root directory
 3. Build and push the application image by running the following commands in the root directory of your project:
@@ -42,5 +42,5 @@ To deploy the Node.js App to the Kubernetes cluster created in Task 1, follow th
 ```
 
 ### Task III: Deploying the Monitoring Stack to the Kubernetes Cluster
-After creating the Kube-prometheus module, run the Terraform commands from Task 2 again to deploy the Kube-prometheus stack for monitoring and observability
+After creating the Kube-prometheus module, run the Terraform commands from Task II again to deploy the Kube-prometheus stack for monitoring and observability
 
