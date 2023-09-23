@@ -46,4 +46,4 @@ To deploy the Node.js App to the Kubernetes cluster created in Task I, follow th
 
 After creating the Kube-prometheus module, run the Terraform commands from Task II again to deploy the Kube-prometheus stack for monitoring and observability
 
-![Solution Screenshot](./App.png)
+![Solution Screenshot](./screenshot.png)
