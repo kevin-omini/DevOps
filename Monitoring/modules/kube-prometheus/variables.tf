@@ -8,5 +8,5 @@ variable "namespace" {
   default = "monitoring"
 }
 
-# variable "kube-version" {
-# }
+variable "kube-version" {
+}
